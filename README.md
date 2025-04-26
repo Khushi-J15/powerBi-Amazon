@@ -25,7 +25,7 @@ It provides key insights into ratings, genres, countries, and release trends ove
 ### 🛠 How to View
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 2. Clone or download this repository.
-3. Open `amazon_prime_dashboard.pbix` in Power BI Desktop.
+3. Open `amazon.pbix` in Power BI Desktop.
 4. Explore the visuals and filters interactively!
 
 ---
